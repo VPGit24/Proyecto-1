@@ -1,0 +1,7 @@
+AGREGAR:
+- organice el tour o dia,
+- hotel
+- cafe
+- lugar de tango
+- restaurante
+- puntos turísticos

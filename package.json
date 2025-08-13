@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@capacitor-community/admob": "^7.0.3",
+    "@capacitor/android": "^7.4.1",
+    "@capacitor/core": "^7.4.1",
+    "@supabase/supabase-js": "^2.52.0",
+    "next-auth": "^4.24.11"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.1",
+    "tailwind-scrollbar": "^4.0.2"
+  }
+}
